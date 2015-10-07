@@ -1,0 +1,22 @@
+﻿Der Buildvorgang wurde am 01.10.2015 13:39:44 gestartet.
+     1>Projekt "C:\Users\Admin\OneDrive\Software\Entwicklung\C++\LabCoder-Project\LabCoder\LabCoder.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Debug\LabCoder.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\LabCoder.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt LabCoder.cpp LabCoderDlg.cpp
+         LabCoderDlg.cpp
+         LabCoder.cpp
+         Code wird generiert...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0407" /Ix64\Debug\ /nologo /fo"x64\Debug\LabCoder.res" LabCoder.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\OneDrive\Software\Entwicklung\C++\LabCoder-Project\x64\Debug\LabCoder.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Admin\OneDrive\Software\Entwicklung\C++\LabCoder-Project\x64\Debug\LabCoder.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\OneDrive\Software\Entwicklung\C++\LabCoder-Project\x64\Debug\LabCoder.lib" /MACHINE:X64 x64\Debug\LabCoder.res
+         x64\Debug\LabCoder.obj
+         x64\Debug\LabCoderDlg.obj
+         x64\Debug\stdafx.obj
+         LabCoder.vcxproj -> C:\Users\Admin\OneDrive\Software\Entwicklung\C++\LabCoder-Project\x64\Debug\LabCoder.exe
+     1>Die Erstellung von Projekt "C:\Users\Admin\OneDrive\Software\Entwicklung\C++\LabCoder-Project\LabCoder\LabCoder.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+Verstrichene Zeit 00:00:04.31
